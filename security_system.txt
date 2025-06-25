@@ -1,0 +1,25 @@
+# Arduino Motion Detection Security System
+
+This project simulates a basic motion detection security alarm using a PIR sensor and a buzzer.
+
+## Features:
+- Detects motion in front of the sensor.
+- Activates a buzzer when movement is detected.
+- Ideal for basic home or office security applications.
+
+## Components:
+- Arduino Uno
+- PIR Sensor
+- Buzzer (or LED)
+- Breadboard and wires
+
+## How it Works:
+The PIR sensor continuously monitors for movement. Once motion is detected, it sends a signal to the Arduino, which then activates the buzzer.
+
+## Skills Demonstrated:
+- Working with digital input sensors
+- Real-time signal response
+- Logic control and alerts
+
+## Simulation:
+Built and tested using Tinkercad. Code written in Arduino IDE.
